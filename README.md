@@ -8,6 +8,8 @@ brew install --cask docker
 
 ```sh
 brew install kubectl
+
+kubectl version
 ```
 
 ```sh
